@@ -1,3 +1,3 @@
 - Hi, I’m @Secretprog
-- I’m interested in becoming a software engineer.
+- I’m interested in transitioning to a software engineering career.
 - I’m currently self-learning CS fundamentals through Harvard's CS50x and UC Berkeley's CS61a classes.
