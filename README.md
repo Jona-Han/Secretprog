@@ -1,3 +1,2 @@
 - Hi, I'm Jonathan Han
-- I’m interested in transitioning to a software engineering career.
-- I’m currently self-learning CS fundamentals through online resources.
+- I’m currently a computer science student at the University of British Columbia
