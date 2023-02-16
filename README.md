@@ -1,2 +1,2 @@
 - Hi, I'm Jonathan Han
-- I’m currently a computer science student at the University of British Columbia
+- I’m currently a computer science student at the University of British Columbia. I am in the accelerated integrated computer science degree program.
